@@ -7,7 +7,7 @@ automated phone surveys.
 
 [Read the full tutorial](https://www.twilio.com/docs/tutorials/walkthrough/automated-survey/php/laravel)!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
 
 ## Running locally
 
