@@ -1,26 +1,42 @@
 {
   "questions": [
     {
-      "body": "What type of bear is best?",
+      "body": "What Role are you applying for? reply with either... Car Wrap, Retail Evaluation, P/A, ETC",
       "kind": "free-answer"
     },
     {
-      "body": "In a scale of 1 to 10, how cute do you find koalas?",
-      "kind": "numeric"
-    },
-    {
-      "body": "Do you think bears beat beets?",
-      "kind": "yes-no"
-    },
-    {
-      "body": "What's the relationship between Battlestar Galactica and bears?",
+      "body": "What is your Legal Name?",
       "kind": "free-answer"
     },
     {
-      "body": "Do sloths qualify as bears?",
+      "body": "How old are you?",
+      "kind": "free-answer"
+    },
+    {
+      "body": "Your resident Address?",
+      "kind": "free-answer"
+    },
+    {
+      "body": "Your Email Address?",
+      "kind": "free-answer"
+    },
+    {
+      "body": "Your Phone Number?",
+      "kind": "free-answer"
+    },
+    {
+      "body": "Did you have a Car, Bus, Van or Truck?",
+      "kind": "free-answer"
+    }
+    {
+      "body": "Are you legally authorized to work in the United States?",
+      "kind": "free-answer"
+    }
+    {
+      "body": "What is Your present or Last Job?",
       "kind": "free-answer"
     }
 
   ],
-  "title": "About bears"
+  "title": "About Job seekers"
 }
