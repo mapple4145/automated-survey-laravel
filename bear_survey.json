@@ -27,11 +27,11 @@
     {
       "body": "Did you have a Car, Bus, Van or Truck?",
       "kind": "free-answer"
-    }
+    },
     {
       "body": "Are you legally authorized to work in the United States?",
       "kind": "free-answer"
-    }
+    },
     {
       "body": "What is Your present or Last Job?",
       "kind": "free-answer"
